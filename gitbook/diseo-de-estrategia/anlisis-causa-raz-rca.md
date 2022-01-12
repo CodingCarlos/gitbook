@@ -1,1 +1,1 @@
-[[Diagrama fishbone]]
+[Diagrama fishbone](diseo-de-estrategia/diagrama-fishbone.md)

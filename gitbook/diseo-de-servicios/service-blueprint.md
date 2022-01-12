@@ -8,9 +8,9 @@ Etiquetas: #servicio
 ![NNg Service Blueprint Example](https://media.nngroup.com/media/editor/2017/08/22/nng-service-blueprint-example.png)
 
 ## Qué es
-Diagrama para **visualizar los distintos componentes** de un servicio (gente, artefactos y procesos) que están directamente relacionados con [[Touchpoint]]s en un [[Viaje del usuario (User Journey)]]. Serían la "parte 2" del [[Viaje del usuario (User Journey)]].
+Diagrama para **visualizar los distintos componentes** de un servicio (gente, artefactos y procesos) que están directamente relacionados con [Touchpoint](recursos/glosario/touchpoint.md)s en un [[Viaje del usuario (User Journey)]]. Serían la "parte 2" del [[Viaje del usuario (User Journey)]].
 
-Puede haber varios planos (*blueprints*) para el mismo servicio si contamos con distintos **escenarios** ([[Viaje del usuario (User Journey)#^954179]])
+Puede haber varios planos (*blueprints*) para el mismo servicio si contamos con distintos **escenarios** ([Viaje del usuario (User Journey)#^954179](false))
 
 > Ejemplo: en un restaurante tendríamos un *blueprint* para cenar en el restaurante y otro distinto para pedir comida para llevar.
 

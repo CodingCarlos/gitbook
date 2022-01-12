@@ -1,66 +1,5 @@
 # Summary
 
-* [.git](git/README.md)
-    * [branches](git/branches/README.md)
-
-    * [hooks](git/hooks/README.md)
-        * [applypatch-msg.sample](git/hooks/applypatchmsg.sample)
-        * [commit-msg.sample](git/hooks/commitmsg.sample)
-        * [fsmonitor-watchman.sample](git/hooks/fsmonitorwatchman.sample)
-        * [post-update.sample](git/hooks/postupdate.sample)
-        * [pre-applypatch.sample](git/hooks/preapplypatch.sample)
-        * [pre-commit.sample](git/hooks/precommit.sample)
-        * [pre-merge-commit.sample](git/hooks/premergecommit.sample)
-        * [pre-push.sample](git/hooks/prepush.sample)
-        * [pre-rebase.sample](git/hooks/prerebase.sample)
-        * [pre-receive.sample](git/hooks/prereceive.sample)
-        * [prepare-commit-msg.sample](git/hooks/preparecommitmsg.sample)
-        * [push-to-checkout.sample](git/hooks/pushtocheckout.sample)
-        * [update.sample](git/hooks/update.sample)
-
-    * [info](git/info/README.md)
-        * [exclude](git/info/exclude)
-
-    * [logs](git/logs/README.md)
-        * [refs](git/logs/refs/README.md)
-            * [heads](git/logs/refs/heads/README.md)
-                * [main](git/logs/refs/heads/main)
-
-            * [remotes](git/logs/refs/remotes/README.md)
-                * [origin](git/logs/refs/remotes/origin/README.md)
-                    * [main](git/logs/refs/remotes/origin/main)
-
-
-
-        * [HEAD](git/logs/head)
-
-    * [objects](git/objects/README.md)
-        * [info](git/objects/info/README.md)
-
-        * [pack](git/objects/pack/README.md)
-            * [pack-0231a8de2efabb9ccd4d64ef26ef89f31752e9cc.idx](git/objects/pack/pack0231a8de2efabb9ccd4d64ef26ef89f31752e9cc.idx)
-            * [pack-0231a8de2efabb9ccd4d64ef26ef89f31752e9cc.pack](git/objects/pack/pack0231a8de2efabb9ccd4d64ef26ef89f31752e9cc.pack)
-
-
-    * [refs](git/refs/README.md)
-        * [heads](git/refs/heads/README.md)
-            * [main](git/refs/heads/main)
-
-        * [remotes](git/refs/remotes/README.md)
-            * [origin](git/refs/remotes/origin/README.md)
-                * [main](git/refs/remotes/origin/main)
-
-
-        * [tags](git/refs/tags/README.md)
-
-
-    * [FETCH_HEAD](git/fetchhead)
-    * [HEAD](git/head)
-    * [config](git/config)
-    * [description](git/description)
-    * [index](git/index)
-    * [shallow](git/shallow)
-
 * [.github](github/README.md)
     * [workflows](github/workflows/README.md)
         * [build-gitbook.yml](github/workflows/buildgitbook.yml)
@@ -196,8 +135,6 @@
 * [Sistemas de diseño](sistemas-de-diseo/README.md)
     * [Design Token](sistemas-de-diseo/design-token.md)
 
-* [.gitattributes](.gitattributes)
-* [.gitignore](.gitignore)
 * [Empezar](empezar.md)
 * [LICENSE](license)
 * [README](readme.md)

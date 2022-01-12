@@ -1,4 +1,4 @@
-[[Investigación generativa]]
-[[Investigación evaluativa]]
-[[Investigación cuantitativa]]
-[[Investigación cualitativa]]
+[Investigación generativa](diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-generativa.md)
+[Investigación evaluativa](diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-evaluativa.md)
+[Investigación cuantitativa](diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cuantitativa.md)
+[Investigación cualitativa](diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cualitativa.md)

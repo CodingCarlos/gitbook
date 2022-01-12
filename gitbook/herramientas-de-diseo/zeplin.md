@@ -1,1 +1,1 @@
-Sincronizar desde [[Sketch]] o [[Figma]]
+Sincronizar desde [Sketch](herramientas-de-diseo/sketch.md) o [Figma](herramientas-de-diseo/figma.md)

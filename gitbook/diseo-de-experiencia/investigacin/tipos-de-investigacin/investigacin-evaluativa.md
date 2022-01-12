@@ -2,6 +2,6 @@
 
 https://maze.co/guides/ux-research/evaluative/
 
-[[Investigación generativa]]
-[[Investigación cuantitativa]]
-[[Investigación cualitativa]]
+[Investigación generativa](diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-generativa.md)
+[Investigación cuantitativa](diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cuantitativa.md)
+[Investigación cualitativa](diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cualitativa.md)

@@ -2,4 +2,4 @@
 Una cosa
 
 ## Disciplinas
-[[Disciplinas de UX]]
+[Disciplinas de UX](diseo-de-experiencia/disciplinas-de-ux.md)

@@ -1,5 +1,5 @@
 Content Management System
 
 ## Ejemplos
-- [[WordPress]]
-- Jekyll [[Headless CMS]]
+- [WordPress](herramientas-de-diseo/wordpress/wordpress.md)
+- Jekyll [Headless CMS](false)

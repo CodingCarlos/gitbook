@@ -98,4 +98,4 @@ FAQ bajo demanda
 
 # Recursos
 ## Relacionado
-[[Evaluación heurística]]
+[Evaluación heurística](diseo-de-experiencia/heursticas/evaluacin-heurstica.md)
