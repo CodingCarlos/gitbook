@@ -1,3 +1,3 @@
-Sincronizar diseños via [Craft](../false) desde [Sketch](../herramientas-de-diseo/sketch.md)
+Sincronizar diseños via [[Craft]] desde [[Sketch]]
 
 Documentar Design Systems con DSM

@@ -1,16 +1,16 @@
 # Entrevistas de usuario
 Etiquetas: #UX 
 
-![Screenshot 2022-01-07 at 13.34.37.png](../screenshot-20220107-at-13.34.37.png)
+![Screenshot 2022-01-07 at 13.34.37.png](./screenshot-20220107-at-13.34.37.png)
 
 ## Qué es
-(...) técnica de [Investigación generativa](../diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-generativa.md) 
+(...) técnica de [Investigación generativa](../../../diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-generativa.md) 
 
 ## Para qué sirve
 Para (...)
 
 ## Cómo se hace
-(...) [Personas](../diseo-de-experiencia/investigacin/tcnicas-de-investigacin/personas.md)
+(...) [Personas](../../../diseo-de-experiencia/investigacin/tcnicas-de-investigacin/personas.md)
 
 1. Intro
 2. ...

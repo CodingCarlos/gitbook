@@ -1,10 +1,5 @@
 # Summary
 
-* [.github](github/README.md)
-    * [workflows](github/workflows/README.md)
-        * [build-gitbook.yml](github/workflows/buildgitbook.yml)
-
-
 * [Desarrollo para diseñadoras](desarrollo-para-diseadoras/README.md)
     * [Maquetación para diseñatas (intro a HTML y CSS)](desarrollo-para-diseadoras/maquetacin-para-diseatas-intro-a-html-y-css.md)
 

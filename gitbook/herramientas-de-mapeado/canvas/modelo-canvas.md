@@ -5,4 +5,4 @@ Etiquetas: #UX #mapeado
 aaa
 
 ## Ver también
-[Business Model Canvas](../herramientas-de-mapeado/canvas/business-model-canvas.md)
+[Business Model Canvas](../../herramientas-de-mapeado/canvas/business-model-canvas.md)
