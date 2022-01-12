@@ -36,13 +36,13 @@ Agrupar por datos demográficos[^1] (género, edad...) y definir entre 1 y 4 gru
 ### 2. Personalización o humanización
 Rellenar la "personalidad" de cada arquetipo.
 
-> ver [Personas](../../../diseo-de-experiencia/investigacin/tcnicas-de-investigacin/personas.md)
+> ver [Personas](./diseo-de-experiencia/investigacin/tcnicas-de-investigacin/personas.md)
 
 ### 3. Empatizar
 Ponerse en la piel de la persona: qué piensa, qué siente...
 
 ### 4. Validación
-Usar [Investigación cualitativa](../../../diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cualitativa.md) o [Investigación cuantitativa](../../../diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cuantitativa.md) para comprobar si nuestras hipótesis son ciertas.
+Usar [Investigación cualitativa](./diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cualitativa.md) o [Investigación cuantitativa](./diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cuantitativa.md) para comprobar si nuestras hipótesis son ciertas.
 
 
 
@@ -51,9 +51,9 @@ Usar [Investigación cualitativa](../../../diseo-de-experiencia/investigacin/tip
 # Recursos
 
 ## Relacionado
-[Personas](../../../diseo-de-experiencia/investigacin/tcnicas-de-investigacin/personas.md)
-[Focus group](../../../diseo-de-experiencia/investigacin/tcnicas-de-investigacin/focus-group.md)
-[Business Model Generation](../diseo-de-estrategia/business-model-generation.md)
+[Personas](./diseo-de-experiencia/investigacin/tcnicas-de-investigacin/personas.md)
+[Focus group](./diseo-de-experiencia/investigacin/tcnicas-de-investigacin/focus-group.md)
+[Business Model Generation](./diseo-de-estrategia/business-model-generation.md)
 
 [[XPLANE]]
 

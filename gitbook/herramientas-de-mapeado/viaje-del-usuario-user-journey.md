@@ -23,13 +23,13 @@ El artefacto/entregable puede ser buena herramienta para comunicar los descubrim
 Puedes empezar con una ==hoja de cálculo== (...)
 
 ### Elementos clave
-- **Actor** (punto de vista): es quien experimenta el viaje. Es una [Personas](../../../diseo-de-experiencia/investigacin/tcnicas-de-investigacin/personas.md).
+- **Actor** (punto de vista): es quien experimenta el viaje. Es una [Personas](./diseo-de-experiencia/investigacin/tcnicas-de-investigacin/personas.md).
 > Ejemplo: en la misma organización hay Personas con distintos Viajes, por ejemplo: en una academia son muy distintas las experiencias de un profesor de las de un alumno.
 - **Escenario y expectativas**: describe la situación que se va a analizar en el viaje, donde el Actor tiene una o varias metas y expectativas específicas.
 > Ejemplo: Marta *quiere* cambiar de tarifa de teléfono *para* gastar menos dinero (escenario). Marta *espera* encontrar todas las opciones de su tarifa y de las otras disponibles para poder comparar con facilidad (expectativa).
  ^3630e8 ^954179
 - **Fases**: son los pasos del viaje. Nos ayudan a organizar la información del mapa (acciones, pensamientos, emociones...)
-> Ejemplo: en un [e-commerce](../../recursos/glosario/ecommerce.md), para un cliente que compra un altavoz inalámbrico, las fases serían: descubrir, probar, comprar, usar y (quizá) buscar soporte.
+> Ejemplo: en un [e-commerce](./recursos/glosario/ecommerce.md), para un cliente que compra un altavoz inalámbrico, las fases serían: descubrir, probar, comprar, usar y (quizá) buscar soporte.
 - **Acciones, actitudes, emociones**: son los comportamientos y sentimientos que tiene el usuario/cliente durante el viaje.
 	- **Acciones**: comportamientos y pasos. Es más narrativo que granular (paso por paso)
 	- **Actitudes**: preguntas y motivaciones. "🤔 ¿Será este altavoz compatible con mi tele?", o "🤦 Maldita sea, tenía que haberme leído la descripción antes de comprarlo"
@@ -44,8 +44,8 @@ Mapear el viaje del usuario es especialmente útil en escenarios[[#^3630e8]] que
 
 ## Variaciones
 [[Mapa de experiencia (Experience Map)]]
-[Service Blueprint](../diseo-de-servicios/service-blueprint.md)
-[User Story Map](../herramientas-de-mapeado/user-story-map.md)
+[Service Blueprint](./diseo-de-servicios/service-blueprint.md)
+[User Story Map](./herramientas-de-mapeado/user-story-map.md)
 
 ---
 
@@ -53,7 +53,7 @@ Mapear el viaje del usuario es especialmente útil en escenarios[[#^3630e8]] que
 
 ### Relacionado
 [[Mapa de empatía (Empathy Map)]]
-[Personas](../../../diseo-de-experiencia/investigacin/tcnicas-de-investigacin/personas.md)
+[Personas](./diseo-de-experiencia/investigacin/tcnicas-de-investigacin/personas.md)
 
 ### Enlaces
 https://www.nngroup.com/articles/journey-mapping-101/

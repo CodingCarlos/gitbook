@@ -27,4 +27,4 @@ Otro lenguaje (...)
 Así
 
 ¿Y cómo hago que las cosas sean interactivas?
-Con JavaScript, pero eso no te voy a enseñar. Puedes usar [WordPress](../../herramientas-de-diseo/wordpress/wordpress.md).
+Con JavaScript, pero eso no te voy a enseñar. Puedes usar [WordPress](./herramientas-de-diseo/wordpress/wordpress.md).
