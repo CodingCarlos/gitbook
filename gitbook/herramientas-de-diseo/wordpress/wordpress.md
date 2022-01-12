@@ -2,7 +2,7 @@
 Etiquetas: #herramienta #nocode #gratis
 
 ## Qué es
-Es un [CMS](../recursos/glosario/cms.md)
+Es un [CMS](../../recursos/glosario/cms.md)
 
 > Ver: otros CMS
 
@@ -23,7 +23,7 @@ aaa
 aaa
 
 ## Cómo usarlo
-Desde la web o [WP_tutorial - instalación local](../herramientas-de-diseo/wordpress/wptutorial-instalacin-local.md).
+Desde la web o [WP_tutorial - instalación local](../../herramientas-de-diseo/wordpress/wptutorial-instalacin-local.md).
 
 ## Relacionado
 [[Headless CMS]]

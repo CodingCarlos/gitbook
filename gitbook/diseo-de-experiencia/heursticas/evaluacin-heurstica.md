@@ -20,8 +20,8 @@ Este método de evaluación fue desarrollado por Molich y Nielsen en 1990. De ta
 
 # Recursos
 ## Relacionado
-[Heurística](../recursos/glosario/heurstica.md)
-[Las 10 heurísticas de Nielsen](../diseo-de-experiencia/heursticas/las-10-heursticas-de-nielsen.md)
+[Heurística](../../recursos/glosario/heurstica.md)
+[Las 10 heurísticas de Nielsen](../../diseo-de-experiencia/heursticas/las-10-heursticas-de-nielsen.md)
 
 ## Herramientas
 https://olgacarreras.blogspot.com/2018/01/resena-de-ux-check-para-evaluaciones.html

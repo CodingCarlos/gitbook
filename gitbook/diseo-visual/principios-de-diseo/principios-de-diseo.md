@@ -1,1 +1,1 @@
-[Ritmo](../diseo-visual/principios-de-diseo/ritmo.md)
+[Ritmo](../../diseo-visual/principios-de-diseo/ritmo.md)

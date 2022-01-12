@@ -43,11 +43,11 @@ Hay una **línea de visibilidad**: el cliente ve ciertos procesos e interactúa 
 	> **Front**: camareros...
 	> **Back**: cocina
 
-**Front**: canales, productos, [Touchpoint](./recursos/glosario/touchpoint.md)s, interfaces...
+**Front**: canales, productos, [Touchpoint](../recursos/glosario/touchpoint.md)s, interfaces...
 **Back**: políticas de la empresa, tecnologías, logística, infraestructura...
 
 ## Cómo se diseña un servicio
-[Service Blueprint](./diseo-de-servicios/service-blueprint.md)
+[Service Blueprint](../diseo-de-servicios/service-blueprint.md)
 
 ## Recursos
 https://www.nngroup.com/articles/service-design-101/
