@@ -8,4 +8,4 @@ Etiquetas: #UX #usabilidad
 ## Cómo se hace
 (...)
 
-Si hay alguna duda, organizar [Entrevistas de usuario](diseo-de-experiencia/investigacin/tcnicas-de-investigacin/entrevistas-de-usuario.md) para aclararla.
+Si hay alguna duda, organizar [Entrevistas de usuario](../diseo-de-experiencia/investigacin/tcnicas-de-investigacin/entrevistas-de-usuario.md) para aclararla.

@@ -6,7 +6,7 @@ trello_plugin_note_id: n-d3RGnPSYMZOr5EdA-6s
 Etiquetas: #UX 
 
 ## Qué es
-Representación creíble y fiable de los segmentos clave de tu audiencia, basadas en [Investigación cualitativa](diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cualitativa.md), [Investigación cuantitativa](diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cuantitativa.md) y analítica web.
+Representación creíble y fiable de los segmentos clave de tu audiencia, basadas en [Investigación cualitativa](../diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cualitativa.md), [Investigación cuantitativa](../diseo-de-experiencia/investigacin/tipos-de-investigacin/investigacin-cuantitativa.md) y analítica web.
 
 ## Para qué sirve
 -   Represent a major user group for your website
